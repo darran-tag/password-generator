@@ -1,0 +1,79 @@
+body {
+margin: 0;
+width: 550px;
+height: 550px;
+left: 62px;
+top: 64px;
+background: #1F2937;
+}
+
+.heading {
+width: 354px;
+height: 80px;
+top: 115px;
+margin-left: 52px;
+font: Karla;
+font-weight: 800;
+font-size: 40px;
+line-height: 40px;
+color: white
+}
+
+.multicolor {
+    color: green
+}
+
+.subheading {
+width: 372px;
+height: 28px;
+top: 205px;
+margin-left: 52px;
+font: Inter;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+color: #D5D4D8;
+}
+
+.btn {
+width: 191px;
+height: 42px;
+margin-top: 284px;
+margin-left: 52px;
+border-radius: 6px;
+padding: 9px, 17px, 9px, 15px;
+background-color: #10B981;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+color: white
+}
+#input-box-el {
+position: absolute;
+width: 211px;
+height: 39px;
+margin-left: 52px;
+background: #273549;
+border-radius: 6px;
+}
+
+#input-box-2-el {
+width: 211px;
+height: 39px;
+margin-left: 287px;
+top: 396px;
+background: #273549;
+border-radius: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
